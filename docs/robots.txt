@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://music.qinyundrive.tk/docs/sitemap.xml
